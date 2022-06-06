@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.container-fluid {
+  background-color: #205375;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+  background-image: url('kampus.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
